@@ -1,3 +1,3 @@
 ## Ruby ♦
 
-Official documentation: [ruby-lang](https://www.ruby-lang.org/en/documentation/)
+Documentation: [ruby-lang](https://www.ruby-lang.org/en/documentation/)
