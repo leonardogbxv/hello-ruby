@@ -2,7 +2,8 @@ result = ''
 
 loop do
   puts result
-  puts 'Choose one of the following options', "1- Find out a person's age", '0- Exit', 'Option: '
+  puts 'Choose one of the following options', "1- Find out a person's age", '0- Exit'
+  print 'Option: '
 
   option = gets.chomp.to_i
 
